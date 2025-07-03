@@ -1,0 +1,4 @@
+no es compilado 
+de alto nivel lengujae enfocado al humnano 
+print("holamundo")
+print(type('hola mundo'))

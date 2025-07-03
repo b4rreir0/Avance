@@ -1,0 +1,1 @@
+# Paquete core (dominio y reglas de negocio)
